@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Exploring: Artificial Intelligence integration with DevOps, optimizing AI deployment pipelines.<br><br>👯 Seeking Collaboration: Projects in Generative AI to innovate algorithms for creative AI applications.<br><br>🤝 Need Help With: Advancing my skills in Machine Learning concepts like reinforcement learning.<br><br>🌱 Currently Learning: Generative Adversarial Networks (GANs) and advanced ML algorithms.<br><br>💬 Ask Me About: My AI journey and practical implementations.<br><br>⚡ Fun Fact: I enjoy participating in snooker tournaments and find it to be a great way to unwind and socialize outside of the tech world.
+🔭 Currently Exploring: Artificial Intelligence integration with DevOps, optimizing AI deployment pipelines.<br><br>👯 Seeking Collaboration: Projects in Generative AI to innovate algorithms for creative AI applications.<br><br>🤝 Currently Learning: Generative Adversarial Networks (GANs) and Augmented Reality.<br><br>💬
 
 
 ## 🌐 Socials:
