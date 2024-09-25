@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Exploring: Artificial Intelligence integration with DevOps, optimizing AI deployment pipelines.<br><br>👯 Seeking Collaboration: Projects in Generative AI to innovate algorithms for creative AI applications.<br><br>🤝 Currently Learning: Generative Adversarial Networks (GANs) and Augmented Reality.<br><br>💬
+🔭 Currently Exploring: Artificial Intelligence integration with DevOps, optimizing AI deployment pipelines.<br><br>👯 Seeking Collaboration: Projects in Generative AI to innovate algorithms for creative AI applications.<br><br>🤝 Currently Learning: Generative Adversarial Networks (GANs) and Augmented Reality.<br><br>
 
 
 ## 🌐 Socials:
